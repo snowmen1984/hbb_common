@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["home.sgohome.us"];
-pub const RS_PUB_KEY: &str = "AIvzbc5F8vJVbRhETzfNgfJTxnZTgvN5LnemELUjHko=";
+pub const RS_PUB_KEY: &str = "PbhQOW1Mj5wM0IT+QylPdgA+fSm9GENYEa6wTSd1tiI=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
